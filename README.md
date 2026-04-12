@@ -62,6 +62,9 @@ Aspiring DevOps and Cloud Engineer passionate about automation, cloud infrastruc
 - Automate infrastructure provisioning
 - Master CI/CD pipelines
 - Learn monitoring and logging tools
+- Explore and evaluate new AI tools and automation techniques to improve workflows
+- Build and solve practical problems using AI-driven solutions
+- Improve proficiency in Python, C++, and Java (ongoing)
 
 ---
 
