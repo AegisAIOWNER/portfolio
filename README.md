@@ -33,6 +33,18 @@ Aspiring DevOps and Cloud Engineer passionate about automation, cloud infrastruc
 
 ---
 
+- **Auto vulnerability detector (sanitized)**
+  - Automated scanning and remediation pipeline that detects common vulnerabilities and opens remediation pull requests.
+  - CI/CD: GitHub Actions (scan → PR → deploy) and Dockerized scanner; sanitized examples available on request.
+
+- **CI/CD & Deployment Automation**
+  - Implemented PR → merge → deploy pipelines to streamline releases and reduce manual steps.
+  - Technologies: GitHub Actions, Docker, Railway.
+
+- **AI data-extraction agent**
+  - Prompt-engineered agents (Gemini/Grok/Claude) that extract structured JSON from freeform text for automation.
+  - Includes sanitized prompts and example input/output; production data and targets are not published.
+
 ## 🧰 Skills
 
 - AI & Automation: Gemini Pro, Grok, Claude agents, VS Code Copilot, ChatGPT; prompt engineering & agent orchestration
