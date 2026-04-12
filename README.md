@@ -1,5 +1,5 @@
 
-# 🚀 DevOps & Cloud Engineer Portfolio
+# 🚀 DevOps, Cloud & AI Automation Portfolio
 
 
 Welcome! This portfolio showcases my journey, skills, and hands-on projects in DevOps, Cloud Engineering, AI tools, and automation.
@@ -13,7 +13,6 @@ Welcome! This portfolio showcases my journey, skills, and hands-on projects in D
 - Features and technologies I’ve implemented (e.g., Docker, Railway, CI/CD, AI agents & automation)
 - AI tools and agent workflows (Gemini, Grok, Claude agents, VS Code Copilot, ChatGPT)
 - Documentation of my learning journey and achievements
-- Contact information for networking and opportunities
 
 ---
 
@@ -54,11 +53,4 @@ Aspiring DevOps and Cloud Engineer passionate about automation, cloud infrastruc
 
 ---
 
-## 📫 Contact
-
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-
----
-
-> _This portfolio is a work in progress as I continue to learn and grow in DevOps and Cloud Engineering._
+> _This portfolio is a work in progress as I continue to learn and grow in DevOps, Cloud, and AI automation._
